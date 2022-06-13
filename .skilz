@@ -1,0 +1,11 @@
+{
+	"branch": "main",
+  "description": "Bash Agent of the Extemporaneous - one of those late night ideas that you write for the lolz",
+  "title": "BAE",
+  "links": [
+    {
+      "title": "View Source",
+      "href": "https://github.com/ArchiMoebius/bae/"
+    }
+  ]
+}
